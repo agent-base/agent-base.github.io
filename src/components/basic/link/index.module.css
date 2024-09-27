@@ -1,0 +1,19 @@
+.link {
+  display: inline-block;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #111928;
+  text-decoration: none;
+  padding: 4px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  background: transparent;
+  transition: background .4s;
+}
+
+.link:hover {
+  background: rgb(243, 244, 246);
+}
+  
